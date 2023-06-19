@@ -1,0 +1,48 @@
+ A react-app with a logging form 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   my-project/.gitignore
+#	new file:   my-project/README.md
+#	new file:   my-project/package-lock.json
+#	new file:   my-project/package.json
+#	new file:   my-project/public/favicon.ico
+#	new file:   my-project/public/index.html
+#	new file:   my-project/public/logo192.png
+#	new file:   my-project/public/logo512.png
+#	new file:   my-project/public/manifest.json
+#	new file:   my-project/public/robots.txt
+#	new file:   my-project/src/.stylelinttrc.json
+#	new file:   my-project/src/App.css
+#	new file:   my-project/src/App.js
+#	new file:   my-project/src/App.test.js
+#	new file:   my-project/src/components/Alert.js
+#	new file:   my-project/src/components/Card.js
+#	new file:   my-project/src/components/ContactMeSection.js
+#	new file:   my-project/src/components/Footer.js
+#	new file:   my-project/src/components/FullScreenSection.js
+#	new file:   my-project/src/components/Header.js
+#	new file:   my-project/src/components/LandingSection.js
+#	new file:   my-project/src/components/ProjectsSection.js
+#	new file:   my-project/src/context/alertContext.js
+#	new file:   my-project/src/hooks/useSubmit.js
+#	new file:   my-project/src/images/photo1.jpg
+#	new file:   my-project/src/images/photo2.jpg
+#	new file:   my-project/src/images/photo3.jpg
+#	new file:   my-project/src/images/photo4.jpg
+#	new file:   my-project/src/images4/photo6.jpeg
+#	new file:   my-project/src/images4/profilephoto.jpg
+#	new file:   my-project/src/index.css
+#	new file:   my-project/src/index.js
+#	new file:   my-project/src/logo.svg
+#	new file:   my-project/src/reportWebVitals.js
+#	new file:   my-project/src/setupTests.js
+#
+# Untracked files:
+#	.vscode/
+#
